@@ -1,0 +1,6 @@
+{
+  "name": "Study IQ Free Batch",
+  "description": "Premium Study IQ Free Batch interface offering full syllabus stream lectures, notes downloads, and test simulators for state civil services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
